@@ -2,7 +2,7 @@
 
 ---
 Вкатываюсь в ML и DS.
-Vibe(не путать с вайбкодингом) driven development ambassador
+
 
 
 ## 🌐 Контакты:
