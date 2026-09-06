@@ -1,7 +1,8 @@
-# 👋 Привет! Меня зовут Никита<br><br>**Backend-разработчик (Python)** · интересуюсь ML/LLM · 3 курс Software Engineering, ИТМО
+# **Backend-разработчик (Python)** · интересуюсь ML · 3 курс Software Engineering, ИТМО
 
 ---
-Пишу backend на Python больше двух лет: асинхронные REST-сервисы на FastAPI, PostgreSQL, очереди на Celery/Redis, деплой в Docker. Есть опыт продакшена в стартапе (Kursor Lab) и преподавания в Университете Иннополис. Отдельно развиваюсь в сторону RAG и LLM-агентов.
+Пишу backend на Python больше двух лет: асинхронные REST-сервисы на FastAPI, PostgreSQL, очереди на Celery/Redis, деплой в Docker. Есть опыт продакшена в стартапе (Kursor Lab) и преподавания в Университете Иннополис. 
+Отдельно развиваюсь в сторону RAG и LLM-агентов.
 
 ## 🌐 Контакты:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:evtuh.n@outlook.com)
